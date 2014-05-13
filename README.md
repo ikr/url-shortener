@@ -11,3 +11,7 @@ The classic XIAG test task given to job applicants, implemened in Clojure and Cl
 5. V can copy short URL and repeat process with another link
 
 Short URL should redirect to the original link in any browser from any place and keep actuality forever, doesn't matter how many times application has been used after that.
+
+# Status
+
+NOT READY
