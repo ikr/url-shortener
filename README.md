@@ -34,8 +34,9 @@ Expected result:
 1. Source code;
 2. System requirements and installation instructions on our platform, in English.
 
-_*That part we ignore, obviously_
-
 # Status
 
 NOT READY
+
+--
+_*That part we ignore, obviously_
